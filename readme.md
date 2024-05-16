@@ -3,7 +3,7 @@
 - [folio v1](https://umarayub.netlify.app/)
 - [folio v2](https://sprightly-lokum-edfec2.netlify.app/)
 - [markdown generator](https://md-files.netlify.app/)
-- [pomodoro](https://notanotherpomodoro.netlify.app/1)
+- [pomodoro](https://notanotherpomodoro.netlify.app/)
 
 ### Saad
 
